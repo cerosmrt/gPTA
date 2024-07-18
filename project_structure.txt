@@ -1,0 +1,105 @@
+ Volume in drive Z is King's Stone
+ Volume Serial Number is 9420-B6CF
+
+ Directory of Z:\programming\4geeks\SoloProject\0
+
+07/16/2024  09:11 PM    <DIR>          .
+07/15/2024  11:08 PM    <DIR>          ..
+07/16/2024  09:00 PM    <DIR>          assets
+07/16/2024  09:09 PM    <DIR>          backend
+07/16/2024  09:11 PM                 0 project_structure.txt
+               1 File(s)              0 bytes
+
+ Directory of Z:\programming\4geeks\SoloProject\0\assets
+
+07/16/2024  09:00 PM    <DIR>          .
+07/16/2024  09:11 PM    <DIR>          ..
+07/16/2024  08:41 PM            52,693 DataStructureLineFetcher.png
+               1 File(s)         52,693 bytes
+
+ Directory of Z:\programming\4geeks\SoloProject\0\backend
+
+07/16/2024  09:09 PM    <DIR>          .
+07/16/2024  09:11 PM    <DIR>          ..
+07/16/2024  09:07 PM    <DIR>          app
+07/16/2024  09:09 PM                 0 config.py
+07/16/2024  09:08 PM    <DIR>          migrations
+07/16/2024  09:09 PM                 0 readme.md
+07/16/2024  09:09 PM                 0 requeriments.txt
+07/16/2024  09:09 PM                 0 run.py
+07/16/2024  09:08 PM    <DIR>          tests
+               4 File(s)              0 bytes
+
+ Directory of Z:\programming\4geeks\SoloProject\0\backend\app
+
+07/16/2024  09:07 PM    <DIR>          .
+07/16/2024  09:09 PM    <DIR>          ..
+07/16/2024  09:07 PM                 0 extensions.py
+07/16/2024  09:07 PM                 0 forms.py
+07/16/2024  09:02 PM                 0 models.py
+07/16/2024  09:02 PM    <DIR>          routes
+07/16/2024  09:01 PM    <DIR>          static
+07/16/2024  09:04 PM    <DIR>          templates
+07/16/2024  09:07 PM                 0 utils.py
+07/16/2024  09:02 PM                 0 __init__.py
+               5 File(s)              0 bytes
+
+ Directory of Z:\programming\4geeks\SoloProject\0\backend\app\routes
+
+07/16/2024  09:02 PM    <DIR>          .
+07/16/2024  09:07 PM    <DIR>          ..
+07/16/2024  09:02 PM                 0 api.py
+07/16/2024  09:02 PM                 0 auth.py
+07/16/2024  09:02 PM                 0 text_editor.py
+07/16/2024  09:02 PM                 0 __init__.py
+               4 File(s)              0 bytes
+
+ Directory of Z:\programming\4geeks\SoloProject\0\backend\app\static
+
+07/16/2024  09:01 PM    <DIR>          .
+07/16/2024  09:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of Z:\programming\4geeks\SoloProject\0\backend\app\templates
+
+07/16/2024  09:04 PM    <DIR>          .
+07/16/2024  09:07 PM    <DIR>          ..
+07/16/2024  09:03 PM    <DIR>          auth
+07/16/2024  09:03 PM                 0 base.html
+07/16/2024  09:04 PM    <DIR>          text_editor
+               1 File(s)              0 bytes
+
+ Directory of Z:\programming\4geeks\SoloProject\0\backend\app\templates\auth
+
+07/16/2024  09:03 PM    <DIR>          .
+07/16/2024  09:04 PM    <DIR>          ..
+07/16/2024  09:03 PM                 0 login.html
+07/16/2024  09:03 PM                 0 signup.html
+               2 File(s)              0 bytes
+
+ Directory of Z:\programming\4geeks\SoloProject\0\backend\app\templates\text_editor
+
+07/16/2024  09:04 PM    <DIR>          .
+07/16/2024  09:04 PM    <DIR>          ..
+07/16/2024  09:04 PM                 0 create.html
+07/16/2024  09:04 PM                 0 edit.html
+07/16/2024  09:04 PM                 0 view.html
+               3 File(s)              0 bytes
+
+ Directory of Z:\programming\4geeks\SoloProject\0\backend\migrations
+
+07/16/2024  09:08 PM    <DIR>          .
+07/16/2024  09:09 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of Z:\programming\4geeks\SoloProject\0\backend\tests
+
+07/16/2024  09:08 PM    <DIR>          .
+07/16/2024  09:09 PM    <DIR>          ..
+07/16/2024  09:08 PM                 0 test_models.py
+07/16/2024  09:08 PM                 0 test_routes.py
+               2 File(s)              0 bytes
+
+     Total Files Listed:
+              23 File(s)         52,693 bytes
+              32 Dir(s)  322,374,033,408 bytes free
